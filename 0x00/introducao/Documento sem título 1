@@ -1,0 +1,12 @@
+Micro serviços é uma arquitetura, onde a aplicação a ser feita, é separada por funções e assim são criados cada serviço para
+cada função.
+
+A arquitetura monolítica é composta por um sistema que comporta todas as funções a ser utilizados, ja a arquitetura em micro
+serviços cada função do sistema é separada juntamento com seu banco de dados.
+
+Os benefícios da arquitetura em micro serviços são, Deploy e testes são executados de uma forma mais rápida, manutenção no código
+é mais fácil, pois existe apenas um serviço, a arquitetura em micro serviço tem um baixo acoplamento, sendo assim caso haja
+algum problema no sistema não irá parar a aplicação toda, somente o serviço que der problema será finalizado.
+
+Os tipos de comunicação entre os micro serviços são, Requisições HTTP, Por mensagem com mensageiros exemplo kafka, e orientada a 
+eventos.
