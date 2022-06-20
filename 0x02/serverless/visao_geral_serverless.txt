@@ -1,0 +1,35 @@
+O que é Arquitetura Serverless
+
+R : é uma arquitetura que significa sem servidor ou em nuvem, mas não significa realmente sem servidor, pois tudo que é em
+nuvem tem algo físico por trás, mas pelo fato de serverless não ter a necessidade de gerenciamento do servidor, ou ter
+preocupações com realocação de capacidade, isso significa ser serverless.
+
+O que é Function as a service (FaaS) ?
+
+R: é quase a mesma coisa que serverless, mas signifca Function as a service, ou se ja, a criação de funções transformadas
+em serviços.
+
+
+Quais são os benefícios de usar arquitetura Serverless ?
+
+R: não tem necessidade de gerenciamento pois são auto gerenciaveis, pois em relação a segurança, todos fornecedores desse
+tipo de arquitetura se comprometem em garantir a segurança, em relação a capacidade exemplo, memoria, espaço em disco e etc,
+essa arquitetura trata de ser escalavel e mais alguns.
+
+
+O que é Cloud Computing (Computação em Nuvem) ? E quais são seu benefícios ?
+
+R: Cloud computing seria como você poder executar tudo que uma aplicação precisa na nuvem, exemplo, ter um banco
+de dados em nuvem, ter espaço em disco para guardar arquivos, ter marquinas virtuais para a execução de uma aplicação.
+os beneficios são muitos, economia com custo de energia, economia com equipamentos, preocupação com o gerenciamento e muitos
+outros.
+
+
+Quais são as principais diferenças entre Arquitetura Monolítica, Microsserviços e Serverless ?
+
+R: Arquitetura monolitica, pode ser criar uma aplicação com todas as funções que irão utilizar para gerar um sistema, exemplo
+com todas as funções em uma só api, ja a arquitetura de micro serviços é você dividir o sistema todo em serviços, exemplo
+as funções para gerar um sistema completo estará todas separadas em apis, ja serverless é uma camada a baixo desses dois
+termos anteriores, serverless apenas da todo o suporte para que uma aplicação esteja gerenciada pelo provedor e não por você, 
+ela também garante que ela será escalavel, logo o custo de hardwares não será por sua conta
+
